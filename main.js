@@ -48,9 +48,3 @@ setTimeout(() => {
     fireworks.start()
 },5000)
 
-setTimeout(() => {
-    fireworks.stop()
-},15000)
-
-
-
